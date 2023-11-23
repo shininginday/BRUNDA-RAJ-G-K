@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sleepinghead
-- 👀 I’m interested in becoming full stack developer
-- 🌱 I’m currently learning B.E 2nd year
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Brunda Raj G K
+- 👀 ELECTRONICS AND COMMUNICATION ENGINEERING
+- 🌱 I’m currently learning B.E 3rd year
 - 📫 How to reach me email id- @brundaraj7468@gmail.com
 
 <!---
